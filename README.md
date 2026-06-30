@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="TransitaLogo" src="https://github.com/user-attachments/assets/944ac018-b92a-4b13-b114-a9e58ad05bb2" />
+<img width="1024" height="512" alt="TransitaLogo" src="https://github.com/user-attachments/assets/944ac018-b92a-4b13-b114-a9e58ad05bb2" />
 
 
 # 🚶‍♂️ Transita
