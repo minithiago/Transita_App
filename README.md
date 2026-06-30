@@ -1,3 +1,6 @@
+<img width="1024" height="1024" alt="TransitaLogo" src="https://github.com/user-attachments/assets/944ac018-b92a-4b13-b114-a9e58ad05bb2" />
+
+
 # 🚶‍♂️ Transita
 
 **Transita** es una aplicación para Android desarrollada en Flutter Dart que ayuda a los usuarios a encontrar la ruta más accesible hacia su destino. Mediante un mapa interactivo de la ciudad y una planificación de rutas inteligente, la aplicación fomenta una movilidad inclusiva para personas con necesidades de accesibilidad.
