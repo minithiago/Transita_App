@@ -1,4 +1,4 @@
-<img width="1024" height="512" alt="TransitaLogo" src="https://github.com/user-attachments/assets/944ac018-b92a-4b13-b114-a9e58ad05bb2" />
+<img width="1024" height="679" alt="TransitaLogo - copia" src="https://github.com/user-attachments/assets/6b28bd33-3c64-474c-9c78-27842a07ea81" />
 
 
 # 🚶‍♂️ Transita
@@ -33,3 +33,7 @@
   <img src="https://github.com/user-attachments/assets/a2ad5803-534c-4762-86ef-d6fd66066f9a" width="22%" />
   
 </p>
+
+## 👾 Sobre el desarrollador
+
+Desarrollado por Joan, Javi y Ivan 
